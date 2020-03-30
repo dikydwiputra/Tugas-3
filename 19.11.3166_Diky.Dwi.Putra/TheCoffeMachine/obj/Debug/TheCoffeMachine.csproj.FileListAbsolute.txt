@@ -1,0 +1,13 @@
+D:\documen\KULIAH\Semester 2\Pemprog\Tugas bab 4\TheCoffeMachine\TheCoffeMachine\obj\Debug\TheCoffeMachine.csprojAssemblyReference.cache
+D:\documen\KULIAH\Semester 2\Pemprog\Tugas bab 4\TheCoffeMachine\TheCoffeMachine\bin\Debug\TheCoffeMachine.exe.config
+D:\documen\KULIAH\Semester 2\Pemprog\Tugas bab 4\TheCoffeMachine\TheCoffeMachine\bin\Debug\TheCoffeMachine.exe
+D:\documen\KULIAH\Semester 2\Pemprog\Tugas bab 4\TheCoffeMachine\TheCoffeMachine\bin\Debug\TheCoffeMachine.pdb
+D:\documen\KULIAH\Semester 2\Pemprog\Tugas bab 4\TheCoffeMachine\TheCoffeMachine\obj\Debug\TheCoffeMachine.exe
+D:\documen\KULIAH\Semester 2\Pemprog\Tugas bab 4\TheCoffeMachine\TheCoffeMachine\obj\Debug\TheCoffeMachine.pdb
+C:\Users\Diky Dwi Putra\Downloads\Compressed\TheCoffeMachine\TheCoffeMachine\bin\Debug\TheCoffeMachine.exe.config
+C:\Users\Diky Dwi Putra\Downloads\Compressed\TheCoffeMachine\TheCoffeMachine\bin\Debug\TheCoffeMachine.exe
+C:\Users\Diky Dwi Putra\Downloads\Compressed\TheCoffeMachine\TheCoffeMachine\bin\Debug\TheCoffeMachine.pdb
+C:\Users\Diky Dwi Putra\Downloads\Compressed\TheCoffeMachine\TheCoffeMachine\obj\Debug\TheCoffeMachine.csprojAssemblyReference.cache
+C:\Users\Diky Dwi Putra\Downloads\Compressed\TheCoffeMachine\TheCoffeMachine\obj\Debug\TheCoffeMachine.csproj.CoreCompileInputs.cache
+C:\Users\Diky Dwi Putra\Downloads\Compressed\TheCoffeMachine\TheCoffeMachine\obj\Debug\TheCoffeMachine.exe
+C:\Users\Diky Dwi Putra\Downloads\Compressed\TheCoffeMachine\TheCoffeMachine\obj\Debug\TheCoffeMachine.pdb
